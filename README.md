@@ -81,7 +81,7 @@ const yug: FullStackDeveloper = {
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="380"/>
 
 </div>
 
@@ -116,7 +116,7 @@ const yug: FullStackDeveloper = {
 &nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="48">
 &nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="48">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9f9be0a7-92c8-48e8-8c0d-64dc04aa0552.gif" width="48">
 &nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/212280805-9f9be0a7-92c8-48e8-8c0d-64dc04aa0552.gif" width="48">
 
@@ -129,7 +129,7 @@ const yug: FullStackDeveloper = {
 ## 🚀 Shipped Projects — 100% Complete ✅
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="400"/>
+<img src="https://raw.githubusercontent.com/yug-void-dev/yug-void-dev/main/tech_carousel.gif" width="400"/>
 </div>
 
 <table>
