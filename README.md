@@ -1,11 +1,13 @@
 <div align="center">
 
 <!-- ULTRA ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:0a0a2e,100:000000&height=280&section=header&text=Yug%20Sharma&fontSize=90&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&stroke=00d4ff&strokeWidth=1&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20UI%20Architect&descAlignY=58&descSize=19&descColor=7dd3fc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:0a0a2e,100:000000&height=320&section=header&text=Yug%20Sharma%20%F0%9F%91%8B&fontSize=82&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&stroke=00d4ff&strokeWidth=1&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20UI%20Architect&descAlignY=70&descSize=20&descColor=7dd3fc"/>
+
+<br/>
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&repeat=true&width=750&lines=const+yug+%3D+new+FullStackDeveloper()%3B+%F0%9F%9A%80;%E2%96%B6+Shipping+real-world+MERN+applications;%E2%96%B6+React+%7C+Node.js+%7C+Express+%7C+MongoDB;%E2%96%B6+OpsMind-AI+%7C+Weather+%7C+Quiz+%7C+Todo+%E2%9C%85;%E2%96%B6+Writing+clean+code%2C+one+commit+at+a+time;%E2%96%B6+Open+to+Collabs+%26+Opportunities+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&repeat=true&width=750&lines=Hey+There%21+%F0%9F%91%8B+I%27m+Yug+Sharma%21;const+yug+%3D+new+FullStackDeveloper()%3B+%F0%9F%9A%80;%E2%96%B6+Shipping+real-world+MERN+applications;%E2%96%B6+React+%7C+Node.js+%7C+Express+%7C+MongoDB;%E2%96%B6+OpsMind-AI+%7C+Weather+%7C+Quiz+%7C+Todo+%E2%9C%85;%E2%96%B6+Writing+clean+code%2C+one+commit+at+a+time;%E2%96%B6+Open+to+Collabs+%26+Opportunities+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
