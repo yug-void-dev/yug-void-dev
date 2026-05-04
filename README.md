@@ -1,115 +1,134 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yug%20Sharma&fontSize=90&fontColor=38BDF8&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20UI%20Enthusiast&descAlignY=62&descSize=18&descColor=94a3b8" />
+<!-- ULTRA ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:0a0a2e,100:000000&height=280&section=header&text=Yug%20Sharma&fontSize=90&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&stroke=00d4ff&strokeWidth=1&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20UI%20Architect&descAlignY=58&descSize=19&descColor=7dd3fc"/>
 
-<!-- Animated Typing -->
+<!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&lines=const+yug+%3D+new+Developer(%22Full+Stack%22)%3B;Building+real-world+MERN+apps+%F0%9F%9A%80;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Node.js+%7C+Express+%7C+MongoDB;Shipping+ideas+%E2%86%92+products+%E2%9C%A8;opsmind-ai+%7C+Weather+%7C+Quiz+%7C+Todo+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&repeat=true&width=750&lines=const+yug+%3D+new+FullStackDeveloper()%3B+%F0%9F%9A%80;%E2%96%B6+Shipping+real-world+MERN+applications;%E2%96%B6+React+%7C+Node.js+%7C+Express+%7C+MongoDB;%E2%96%B6+OpsMind-AI+%7C+Weather+%7C+Quiz+%7C+Todo+%E2%9C%85;%E2%96%B6+Writing+clean+code%2C+one+commit+at+a+time;%E2%96%B6+Open+to+Collabs+%26+Opportunities+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views + Follow -->
+<!-- BADGES ROW -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=yug-void-dev&label=Profile+Views&color=0f172a&style=for-the-badge&labelColor=38bdf8" />
+  <img src="https://komarev.com/ghpvc/?username=yug-void-dev&label=Profile+Views&color=000000&style=for-the-badge&labelColor=00d4ff" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/yug-void-dev?label=Followers&style=for-the-badge&color=0f172a&labelColor=38bdf8&logo=github" />
+  <img src="https://img.shields.io/github/followers/yug-void-dev?label=Followers&style=for-the-badge&color=000000&labelColor=00d4ff&logo=github" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=for-the-badge&logo=checkmarx&logoColor=black" />
 </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"/> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> `whoami`
 
 ```typescript
-const yug: Developer = {
+const yug: FullStackDeveloper = {
   name        : "Yug Sharma",
   title       : "Full Stack Web Developer",
   location    : "India 🇮🇳",
-  learning    : "MERN Stack — diving deeper every day",
-  stack       : ["HTML5", "CSS3", "JavaScript", "React", "Node.js", "Express", "MongoDB"],
-  interests   : ["Clean UI", "Real-world Apps", "Open Source"],
-  completedProjects : ["OpsMind-AI", "Weather App", "Quiz App", "Todo App"],
-  currentFocus: "Sharpening full-stack skills & contributing to OSS",
-  philosophy  : "Learning by building — one project at a time 🔨",
-  funFact     : "Great UI isn't just design — it's how it *feels* to use ✨",
+  learning    : "MERN Stack — going deeper every single day",
+  stack       : {
+    frontend  : ["HTML5", "CSS3", "JavaScript", "React.js"],
+    backend   : ["Node.js", "Express.js", "MongoDB"],
+    tools     : ["Git", "GitHub", "VS Code", "Postman"],
+  },
+  shipped     : ["OpsMind-AI 🤖", "Weather App 🌤️", "Quiz App 🎯", "Todo App ✅"],
+  profiles    : {
+    github    : "https://github.com/yug-void-dev",
+    linkedin  : "https://linkedin.com/in/yug-sharma-aab0b9323",
+    leetcode  : "https://leetcode.com/u/7nDpsgSkh2",
+  },
+  philosophy  : "Ship it. Polish it. Repeat. 🔁",
+  funFact     : "Great UI is not just design — it is how it *feels* ✨",
 };
 ```
 
 <div align="center">
 
-| 🚀 Full Stack Dev | 🎨 UI Craftsman | 🤖 AI Explorer | 📚 Lifelong Learner |
+| ⚡ Full Stack Dev | 🎨 UI Craftsman | 🤖 AI Builder | 🧠 Problem Solver |
 |:---:|:---:|:---:|:---:|
-| MERN Stack | Pixel-perfect UI | OpsMind-AI Builder | Daily commits |
+| MERN Stack | Pixel-perfect Interfaces | OpsMind-AI | LeetCode Grinder |
 
 </div>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Connect With Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yug%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yug-sharma-aab0b9323/)
-[![GitHub](https://img.shields.io/badge/GitHub-yug--void--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yug-void-dev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/7nDpsgSkh2/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/yug-void-dev)
+<a href="https://www.linkedin.com/in/yug-sharma-aab0b9323/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yug%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>
+&nbsp;
+<a href="https://github.com/yug-void-dev">
+  <img src="https://img.shields.io/badge/GitHub-yug--void--dev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/7nDpsgSkh2/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
+</a>
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"/>
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
 
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+---
 
 ## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
 ### ⚡ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=4" />
 
 ### 🔧 Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=4" />
 
 ### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" />
 
 <br/>
 
-<!-- Animated tech icons row -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="48">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="48">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="48">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="48">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="48">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="48">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="48">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9f9be0a7-92c8-48e8-8c0d-64dc04aa0552.gif" width="48">
 
 </div>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-
-## 🚀 Completed Projects
-
-> All projects below are **100% shipped and live** ✅
+## 🚀 Shipped Projects — 100% Complete ✅
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+</div>
 
 <table>
 <tr>
@@ -118,17 +137,19 @@ const yug: Developer = {
 <h3 align="center">🤖 OpsMind-AI</h3>
 <div align="center">
 
-![Completed](https://img.shields.io/badge/Status-✅%20Completed-22c55e?style=for-the-badge)
+<img src="https://img.shields.io/badge/Status-✅%20Shipped-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=openai&logoColor=white"/>
 
-<br><br>
-<p>An AI-powered operations assistant — intelligent responses, clean UI, and real-world utility built with modern web tech</p>
+<br/><br/>
+<p>AI-powered operations assistant — intelligent responses, clean conversational UI, and real-world utility built end-to-end</p>
 
-<a href="https://github.com/yug-void-dev">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/yug-void-dev/opsmind-ai">
+  <img src="https://img.shields.io/badge/⚡_View_Repository-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
@@ -138,18 +159,20 @@ const yug: Developer = {
 <h3 align="center">🌤️ Weather App</h3>
 <div align="center">
 
-![Completed](https://img.shields.io/badge/Status-✅%20Completed-22c55e?style=for-the-badge)
+<img src="https://img.shields.io/badge/Status-✅%20Shipped-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<br/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 
-<br><br>
-<p>Real-time weather with live API integration, city search, dynamic condition icons, and clean responsive UI</p>
+<br/><br/>
+<p>Real-time weather with live OpenWeather API, city search, dynamic condition icons & fully responsive layout</p>
 
-<a href="https://github.com/yug-void-dev">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/yug-void-dev/weather-app">
+  <img src="https://img.shields.io/badge/⚡_View_Repository-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
@@ -162,17 +185,19 @@ const yug: Developer = {
 <h3 align="center">✅ React Todo App</h3>
 <div align="center">
 
-![Completed](https://img.shields.io/badge/Status-✅%20Completed-22c55e?style=for-the-badge)
+<img src="https://img.shields.io/badge/Status-✅%20Shipped-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/LocalStorage-38BDF8?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/localStorage-38BDF8?style=flat-square&logo=databricks&logoColor=white"/>
 
-<br><br>
-<p>Full-featured task manager with add, edit, delete, completion toggle & localStorage persistence — no data lost on refresh</p>
+<br/><br/>
+<p>Full-featured task manager — add, edit, delete, toggle complete & persists data across sessions via localStorage</p>
 
 <a href="https://github.com/yug-void-dev/todo-app">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⚡_View_Repository-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
@@ -182,17 +207,19 @@ const yug: Developer = {
 <h3 align="center">🎯 Quiz App</h3>
 <div align="center">
 
-![Completed](https://img.shields.io/badge/Status-✅%20Completed-22c55e?style=for-the-badge)
+<img src="https://img.shields.io/badge/Status-✅%20Shipped-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<br/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-<br><br>
-<p>Interactive quiz with countdown timer, live score tracking, instant answer feedback, and smooth animated transitions</p>
+<br/><br/>
+<p>Interactive timed quiz — countdown timer, live score tracking, instant answer feedback & smooth animated transitions</p>
 
-<a href="https://github.com/yug-void-dev">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/yug-void-dev/quiz-app">
+  <img src="https://img.shields.io/badge/⚡_View_Repository-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
@@ -205,34 +232,41 @@ const yug: Developer = {
 <h3 align="center">💼 Internship Projects</h3>
 <div align="center">
 
-![Completed](https://img.shields.io/badge/Status-✅%20Completed-22c55e?style=for-the-badge)
-![Unified Mentor](https://img.shields.io/badge/Unified_Mentor-4A90E2?style=for-the-badge)
+<img src="https://img.shields.io/badge/Status-✅%20Shipped-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Unified%20Mentor-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<br/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-<br><br>
-<p>A curated collection of frontend projects built and delivered during my internship at Unified Mentor</p>
+<br/><br/>
+<p>Curated collection of frontend projects built and delivered during my internship at Unified Mentor</p>
 
 <a href="https://github.com/yug-void-dev/internship-projects">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⚡_View_Repository-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🌟 More Coming Soon</h3>
+<h3 align="center">🔭 More Dropping Soon</h3>
 <div align="center">
 
-![WIP](https://img.shields.io/badge/Status-🔨%20Building-f59e0b?style=for-the-badge)
+<img src="https://img.shields.io/badge/Status-🔨%20Building-f59e0b?style=for-the-badge"/>
 
-<br><br>
-<p>Currently crafting new full-stack projects with the MERN stack. Star & watch the profile to stay updated when they drop!</p>
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="80"/>
+
+<br/><br/>
+<p>New full-stack MERN projects in active development. Star the profile to get notified when they land!</p>
 
 <a href="https://github.com/yug-void-dev?tab=repositories">
-  <img src="https://img.shields.io/badge/Watch_Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⚡_Browse_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -240,89 +274,105 @@ const yug: Developer = {
 </tr>
 </table>
 
-</div>
+> 💡 **Heads up:** If any repo link shows 404, the repo may be private or named slightly differently. Visit **[github.com/yug-void-dev](https://github.com/yug-void-dev)** to browse all public repositories directly.
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yug-void-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yug-void-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=38bdf8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yug-void-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yug-void-dev&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&sideLabels=00d4ff&border_radius=10" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug-void-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yug-void-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f59e0b&area=true&area_color=38bdf822" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug-void-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&text_color=c9d1d9&langs_count=8&border_radius=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yug-void-dev&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=00d4ff&line=00d4ff&point=f59e0b&area=true&area_color=00d4ff22&radius=5" />
 
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yug-void-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
+<img src="https://github-profile-trophy.vercel.app/?username=yug-void-dev&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-
-## 🎯 Learning Roadmap
+## 🎯 Dev Roadmap
 
 <div align="center">
 
 ```mermaid
 mindmap
-  root((Yug's<br/>Dev Journey))
-    ✅ Shipped
+  root((Yug Sharma))
+    Shipped
       OpsMind-AI
       Weather App
       Quiz App
       Todo App
-      Internship Projects
-    🔨 Deepening
+      Internship Unified Mentor
+    Deepening
       MERN Stack
-      RESTful APIs
-      Auth & Security
-      State Management
-    🚀 Next Goals
+      REST APIs
+      Auth and JWT
+      React State
+    Next Up
       TypeScript
       Next.js
       Open Source
-      DevOps Basics
-    💡 Principles
+      Docker Basics
+    Always
       Clean Code
-      Responsive Design
-      Performance First
-      Ship > Perfect
+      Ship First
+      Responsive UI
+      Performance
 ```
 
 </div>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yug-void-dev&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f59e0b&area=true&area_color=1e3a5f&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yug-void-dev&bg_color=0d0d0d&color=00d4ff&line=00d4ff&point=f59e0b&area=true&area_color=00d4ff15&hide_border=true&radius=5" width="100%"/>
 
 </div>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+## 🐍 Watch the Snake Eat My Commits
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+---
 
 ## 💡 Dev Philosophy
 
@@ -331,32 +381,27 @@ mindmap
 <br/>
 
 > ### *"Great UI isn't just design — it's how it **feels** to use."* ✨
-> ### *"Ship it, then improve it. Done > Perfect."* 🚀
+> ### *"Ship it. Then make it perfect. Done beats perfect every time."* 🚀
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House"/>
 
 <br/>
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
 
 </div>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-
-## 📫 Let's Build Something Together
+## 📫 Let's Build Something Amazing
 
 <div align="center">
 
-### 🤝 Open to collaborations, freelance, and interesting opportunities!
+### 🤝 Open to collaborations, freelance & exciting opportunities!
 
 <br/>
 
@@ -365,22 +410,27 @@ mindmap
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/yug-sharma-aab0b9323/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/7nDpsgSkh2/">
-  <img src="https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
 <a href="https://github.com/yug-void-dev">
-  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294023-4be1285b-f668-4b74-ad83-c1a20b015079.gif" width="60"/>
 
-### ⭐ If you find my work useful, consider starring my repositories!
+<br/><br/>
+
+### ⭐ Star my repos if you find them useful — it truly means a lot!
 
 </div>
 
@@ -388,8 +438,8 @@ mindmap
 
 <div align="center">
 
-**Thank you for visiting! Happy Coding! 👨‍💻✨**
+**Thanks for stopping by! Keep building, keep shipping. 👨‍💻✨**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling&fontColor=38BDF8"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a2e,100:000000&height=150&section=footer&animation=twinkling&fontColor=00d4ff"/>
 
 </div>
